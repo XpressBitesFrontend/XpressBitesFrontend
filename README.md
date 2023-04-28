@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @XpressBitesFrontend
+- This is ment to control 2 XpressBites frontend apps 
+- XpressBites 
+- XBMerchants 
